@@ -1,0 +1,6 @@
+#EXTM3U
+# Sample BD IPTV playlist (replace with real stream URLs)
+#EXTINF:-1 tvg-id="Channel1" tvg-name="Example Channel 1" group-title="Bangla",Example Channel 1
+http://example.com/stream1.m3u8
+#EXTINF:-1 tvg-id="Channel2" tvg-name="Example Channel 2" group-title="Bangla",Example Channel 2
+http://example.com/stream2.m3u8
