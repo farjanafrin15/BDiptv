@@ -1,23 +1,41 @@
 # BD IPTV Links
 
-এই রিপোতে বাংলাদেশের IPTV চ্যানেল লিস্ট (.m3u8) রাখা থাকবে — প্লেয়ার বা অ্যান্ড্রয়েড/টিভ অ্যাপে ব্যবহার করার জন্য।
+This repo is a collections of bangldeshi tv channels for playing on TV with Internet (IPTV) using  .m3u8 player.
 
-## কি আছে এখানে
-- `iptv.m3u8` — মেইন প্লেলিস্ট (নমুনা/স্টাব)
-- `CONTRIBUTING.md` — কিভাবে লিংক যোগ/আপডেট করবেন
-- `LICENSE` — লাইসেন্স তথ্য
+## How To Use it?
 
-## ব্যবহার
-1. `.m3u8` ফাইল ডাউনলোড করুন বা সরাসরি URL ব্যবহার করুন (আপনি GitHub-এ আপলোড করলে)  
-   উদাহরণ:
-   ```m3u8
-   https://raw.githubusercontent.com/farjanafrin15/BDiptv/main/iptv.m3u8
-   ```
-2. আপনার IPTV প্লেয়ারে (উদাহরণ: IPTV Pro, VLC, Kodi ইত্যাদি) উপরের URL যুক্ত করুন।
-3. সমস্যা হলে CONTRIBUTING.md দেখুন বা ইস্যু খুলুন।
+You can [download .m3u8](https://raw.githubusercontent.com/farjanafrin15/BDiptv/main/iptv.m3u8) or use this link directly:
 
-## সতর্কতা
-> আমি কোনো চ্যানেলের মালিক নই; সব লিংক পাবলিক সোর্স থেকে সংগৃহীত। ব্যবহার সম্পূর্ণ আপনার দায়িত্বে।
+```m3u8
+https://raw.githubusercontent.com/farjanafrin15/BDiptv/main/iptv.m3u8
+```
 
-## কন্ট্রিবিউট
-নতুন লিংক যোগ করতে CONTRIBUTING.md ফলো করুন বা একটি Pull Request খুলুন.
+## Watch Online
+
+Browse this website URL: [http://farjanafrin.qq.io](http://farjanafrin.qq.io)
+
+![bdixtv.mhosen.com](https://github.com/user-attachments/assets/364a409e-4e87-4779-867d-49be5ba9584b)
+
+## IPTV App on Mobile or Android TV
+
+- Download IPTV pro mod apk: [Download Link](https://linkly.link/2WBdU)
+- Add the m3u8 playlist URL:
+
+  ```m3u8
+  https://raw.githubusercontent.com/farjanafrin15/BDiptv/main/iptv.m3u8
+  ```
+
+## Watch on Chrome
+
+- Install this [extension](https://linkly.link/2ZXGx)
+- Add the iptv m3u8 playlist URL and watch:
+
+  ```m3u8
+  https://raw.githubusercontent.com/farjanafrin15/BDiptv/main/iptv.m3u8
+  ```
+
+  ![chrome view](https://github.com/user-attachments/assets/46add0b1-f9a9-41e9-a58b-9566e974befe)
+
+---
+
+> **Disclaimer:** ***I don't own any links. All are collected from public sources and distributed for common use purposes. Kindly, use it on your own risk.***
